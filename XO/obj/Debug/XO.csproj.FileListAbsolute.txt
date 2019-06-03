@@ -1,0 +1,13 @@
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\black.png
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\null.png
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\xx.png
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\XO.exe.config
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\XO.exe
+C:\Users\vaio\Source\Repos\XO\XO\bin\Debug\XO.pdb
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.Form1.resources
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.Properties.Resources.resources
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.csproj.GenerateResource.cache
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.exe
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.pdb
+C:\Users\vaio\Source\Repos\XO\XO\obj\Debug\XO.csprojAssemblyReference.cache
