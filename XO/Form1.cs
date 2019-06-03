@@ -142,7 +142,7 @@ namespace XO
             int winningSteps = 0;
 
             for (int winningCombinationIndex = 0;
-                winningCombinationIndex < WinningCombination.GetUpperBound(0);
+                winningCombinationIndex <= WinningCombination.GetUpperBound(0);
                 winningCombinationIndex++)
             {
                 for (int playerMovesIndex = 0;
